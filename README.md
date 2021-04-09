@@ -107,7 +107,7 @@ A target folder would be created
 
 # Step 6 :
 
---> check # target/generated-sources/jsonschema2pojo/com.example.com
+--> check # JsonToPojo/target/generated-sources/jsonschema2pojo/com/example/com/
 
 # Your JSON would be converted into Java classes
     
