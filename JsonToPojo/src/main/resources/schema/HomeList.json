@@ -1,0 +1,40 @@
+{
+	"match_id": 85,
+	"series": "CSA T20 Challenge 2021",
+	"match_date": "2021-02-23",
+	"match_time": "13:30:00",
+	"matchs": "9th Match",
+	"venue": "Kingsmead, Durban",
+	"match_type": "T20",
+	"match_status": "Finished",
+	"min_rate": "",
+	"max_rate": "",
+	"fav_team": "Dono",
+	"s_ovr": "",
+	"s_min": "",
+	"s_max": "",
+	"session": null,
+	"result": "",
+	"team_a_id": 19,
+	"team_a": "Warriors",
+	"team_a_short": "WAR",
+	"team_a_img": "http:\/\/65.0.215.109\/webroot\/img\/teams\/1721186249_team.png",
+	"team_a_score": {
+
+		"score": 158,
+		"wicket": 10,
+		"ball": "19.2"
+
+	},
+	"team_b_id": 18,
+	"team_b": "Cape Cobras",
+	"team_b_short": "COB",
+	"team_b_img": "http:\/\/65.0.215.109\/webroot\/img\/teams\/2128302060_team.jpg",
+	"team_b_score": {
+
+		"score": 181,
+		"wicket": 5,
+		"ball": "20"
+
+	}
+}
